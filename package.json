@@ -1,0 +1,17 @@
+{
+  "name": "hwaly-event-delegation",
+  "version": "1.0.0",
+  "description": "이벤트 위임",
+  "main": "index.js",
+  "keywords": [
+    "event",
+    "delegation",
+    "dom"
+  ],
+  "author": "연병화 (https://github.com/hwaly/)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hwaly/event-delegation.git"
+  },
+  "license": "BSD"
+}
